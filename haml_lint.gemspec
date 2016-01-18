@@ -23,6 +23,7 @@ Gem::Specification.new do |s|
 
   s.add_dependency 'haml', '~> 4.0'
   s.add_dependency 'rubocop', '>= 0.25.0'
+  s.add_dependency 'astrolabe'
   s.add_dependency 'sysexits', '~> 1.1'
 
   s.add_development_dependency 'rspec', '~> 3.0'
